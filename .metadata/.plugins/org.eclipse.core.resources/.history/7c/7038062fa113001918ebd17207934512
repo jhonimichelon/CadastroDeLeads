@@ -1,0 +1,17 @@
+package br.com.dlog;
+
+import java.util.List;
+
+import org.apache.poi.ss.usermodel.Row;
+
+public class ImportaExcel {
+
+	private static final String fileName = "C:/teste/teste.xls";
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Lead> listaLeads = new ArrayList<Lead>();
+		
+	}
+
+}
